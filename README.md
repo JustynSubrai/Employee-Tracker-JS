@@ -7,7 +7,6 @@
 ![](https://img.shields.io/badge/node.js-lightgreen.svg)
 
 # Table of Contents
-* [Description](#description)
 * [Video](#video)
 * [Installation](#installation)
 * [Contact](#contact)
